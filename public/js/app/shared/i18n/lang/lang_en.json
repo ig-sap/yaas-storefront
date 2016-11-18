@@ -1,1 +1,755 @@
-{"en":"English","de":"German","fr":"French","es":"Spanish","YES":"Yes","NO":"No","BACK_TO_CHECKOUT":"Back to checkout","CANCEL":"Cancel","CHECKOUT":"Checkout","CONTINUE_SHOPPING":"Continue shopping","SHOP":"Shop","NOTE":"Note","ADD_NOTE":"Add Note","EDIT_NOTE":"Edit Note","DELETE_NOTE":"Delete Note","UNABLE_TO_SAVE_NOTE":"Unable to save note","EST_ORDER_TOTAL":"Est. order total","PREVIEW_ORDER":"Preview Order","PAYMENT_REVIEW":"Payment & Review","PLEASE_CORRECT_MESSAGE_ERRORS":"Something went wrong, please try again","FREE_SHIPPING":"Free Shipping and Returns in the US","ITEM":"Item","ITEM_PRICE":"Item Price","TOTAL_PRICE":"Total Price","CART_UNAVAILABLE":"The cart is currently unavailable. Please try again.","CART_EMPTY":"Your cart is empty","CART_ITEM_UPDATE_ERROR":"The update was not successful. Please try again.","ESTIMATE_TAX":"Estimate Tax","APPLY":"Apply","ESTIMATE_TAX_ERROR":"Zip/Postal Code and Country Code fields are required","ADDITIONAL_SHIPPING_OPTIONS":"Additional shipping options are available in checkout.","SELECT_A_COUNTRY":"Select a country","ADDRESS":"Address","ADDRESS_LINE_1":"Address Line 1","ADDRESS_LINE_2":"Address Line 2","CANT_BE_SHIPPED":"Items cannot be shipped to this location","BILLING_ADDRESS":"Billing Address","CITY":"City","PROVINCE":"Province","CONTINUE":"Continue","COST":"Cost","COUNTRY":"Country","CREDIT_CARD_NUMBER":"Credit Card Number","CVC_NUMBER":"CVC Number","DELIVERY_METHOD":"Delivery Method","EMAIL":"Email","EDIT":"Edit","FIRST_NAME":"First Name","FREE_STANDARD_SHIPPING":"Free Standard Shipping","FLAT_RATE_SHPPING":"Flat Rate","INVALID_EXPIRATION_DATE":"Invalid Expiration Date","ITEMS":"Items","LAST_NAME":"Last Name","LAST_NAME_REQUIRED":"Last Name Required","METHOD":"Method","MIDDLE_NAME":"Middle Name","MONTH":"Month","NAME":"Name","NO_ITEMS_IN_CART":"There are no items in your cart.","OPTIONAL":"Optional","ORDER_DETAILS":"Order Details","ORDER_DATE":"Order Date","ORDER_PENDING":"One moment... Placing your order","ORDER_TOTAL":"Order Total","PAYMENT":"Payment","PHONE_REQUIRED":"Phone Required","PLACE_ORDER":"Place Order","PLACED_AT":"Placed At","PLEASE_CORRECT_ERRORS":"Please correct the errors above before placing your order.","PLEASE_CORRECT_ERRORS_PREVIEW":"Please correct the errors above before previewing your order.","PLEASE_CORRECT_ERRORS_ADDRESS":"Please correct the address details before previewing your order.","PLEASE_ENTER_VALID_CC":"Please enter a valid credit card number","PLEASE_ENTER_VALID_CODE":"Please enter a valid code","PLEASE_ENTER_VALID_EMAIL":"Please enter a valid email in the format name@example.com","REQUIRED":"Required","SAME_AS_SHIPPING_ADDRESS":"Same As Shipping Address","SECURE_CHECKOUT":"Secure Checkout","SELECT_FROM_ADDRESS_BOOK":"Select from address book","ADDRESS_BOOK":"Address Book","SHIPPING":"Shipping","SHIPPING_ADDRESS":"Shipping Address","SIMPLE_3_STEP_CHECKOUT":"Simple 3 Step Checkout","SIMPLE_4_STEP_CHECKOUT":"Simple 4 Step Checkout","STATE":"State","STEP_1_MY_DETAILS":"Step 1. My Details","STEP_2_BILLING_INFORMATION":"Step 2. Billing Information","STEP_3_PAYMENT":"Step 3. Payment","STEP_4_REVIEW_ORDER":"Step 4. Review Order","SUBTOTAL":"Subtotal","DISCOUNT":"Discount","TAX":"Tax","TOTAL":"Total","YEAR":"Year","DEFAULT":"Default","DISTRICT":"District","STREET_NAME":"Street Name/ Number","BUILDING_NAME":"Building Name/ Number","ROOM_NUMBER":"Room Number","PREFECTURE":"Prefecture","POSTAL_CODE":"Postal Code","ZIP":"Zip/ Postal Code","CITY_VILLAGE":"City/ Village/ City Ward","SUBAREA":"Subarea","FURTHER_SUBAREA":"Further Subarea, Block #/ House #","COUPON_APPLY":"Apply","COUPON_APPLIED":"Applied","COUPON_NOT_APPLIED":"Not Applied","COUPON_CODE":"Add Coupon Code","COUPON_NOT_ACTIVE":"The coupon is not active","COUPON_EXPIRED":"The coupon is not active","COUPON_REDEMPTIONS_EXCEEDED":"Coupon has reached maximum number of redemptions","COUPON_REDEMPTION_FORBIDDEN":"Current customer is not allowed to redeem the coupon","COUPON_ORDER_TOTAL_TOO_LOW":"The order value is too low for this coupon","COUPON_CURRENCY_INCORRECT":"Currency inconsistent with coupon","COUPON_DISCOUNT_CURRENCY_INCORRECT":"Discount currency invalid inconsistent coupon","COUPON_DISCOUNT_AMOUNT_INCORRECT":"Discount amount exceeds allowed coupon discount","COUPON_ERROR":"Coupon not valid.","COUPON_ERR_CURRENCY":"Currency invalid with coupon","COUPON_ERR_ANONYMOUS":"Sign in to use coupon code","COUPON_ERR_UNAVAILABLE":"Coupon no longer available","COUPON_MINIMUM_NOT_MET":"Current order total does not meet the required minimum for this coupon","COUPON_NOT_VALID":"Coupon Not Valid","COUPONS":"Coupon Code","A_COPY_OF_YOUR_ORDER_DETAILS_HAS_BEEN_SENT_TO":"<p class=\"orderEmailedTo\">A copy of your order details has been sent to <strong>{{emailAddress}}</strong></p>","ENJOY_YOUR_ITEMS":"Enjoy your items!","FOR_YOUR_ORDER":"for your order!","ITEM_IN_YOUR_ORDER":"Item in your order","ITEMS_IN_YOUR_ORDER":"Items in your order","QUESTIONS":"<p class=\"support-box\">If you have any questions, contact us at <strong>{{contactInfo}}</strong>.</p>","ORDER":"Order","RETURN_TO_SHOPPING":"Return to shopping","SUCCESS":"Success!","ACCOUNT_SUCCESS":"Your account was successfully created!","THANK_YOU":"Thank you","THANK_YOU_FOR_YOUR_ORDER":"Thank you<br />for your order!","THE_SHIPMENT_IS_SCHEDULED_TO_ARRIVE_AT_THE_FOLLOWING_LOCATION":"The order will be shipped to","YOUR_ORDER_IS":"Your order # is ","ONE_MORE_STEP":"One More Step to Create an Account for a <strong>Fast Checkout</strong> and <strong>Easy Access</strong> to Previous Orders","SKU":"SKU","YOUR_CHECKOUT_HAS_BEEN_ACCEPTED_ORDER_NOT_CREATED":"Your checkout has been accepted, but the order has not been created. For tracking purposes, please use the following checkout ID number: ","YOUR_ORDER_WILL_BE_CREATED":"Your order will be created as soon as possible.","PRODUCTS":"Products","BACK_TO":"Back To","REGION":"Region","SHIPPING_INFORMATION":"Shipping information","SHIPPING_ZONE":"Shipping Zone","STANDARD_SHIPPING":"Standard Shipping","SHIPPING_RATE":"Shipping Rate","ZONE":"Zone","BUY":"Buy","ADD_TO_CART":"Add to Cart","PRODUCTS_ADDED_TO_CART":"product(s) successfully added to your cart","PRODUCT_DESCRIPTION":"Product Description","PRODUCT_DETAILS":"Product Details","OUT_OF_STOCK":"out of stock","UNAVAILABLE":"Unavailable","QTY":"Qty","INCLUDES":"Includes","DESTINATION_COUNTRY":"Destination country(s)","NO_LIMIT":"No Limit","ERROR_ADDING_TO_CART":"Add to Cart was not successful.  Please try again.","DESCRIPTION_TAB":"Description","DETAILS_TAB":"Details","MORE":"More","NEWEST":"newest","OF":"of","PRICE_HIGH_LOW":"price high - low","PRICE_LOW_HIGH":"price low - high","SORT_BY":"Sort by","VIEWING":"Viewing","PRODUCTS_FROM_TO":"<div>{{productsFrom}}-{{productsTo}} of {{total}}</div>","ALL_PRODUCTS":"All Products","EMPTY_MSG":"Demo Store - Coming Soon","LANGUAGES":"Languages","SELECT_LANGUAGE":"Select a language","SIGN_OUT":"Sign Out","SIGN_IN":"Sign In","SIGN_IN_WITH_FACEBOOK":"Sign in with Facebook","LOG_IN_WITH_GOOGLE":"Sign in with Google","MY_ACCOUNT":"My Account","CREATE_ACCOUNT":"Create Account","CONTINUE_AS_GUEST":"Continue as our guest","UPDATE_ACCOUNT_DETAILS":"Update Account details","UPDATE_EMAIL":"Update Email","ADD":"Add","REGION_PREFERENCES":"Region Preferences","NEW_EMAIL":"New Email","CURRENT_EMAIL":"Current Email","ADDRESSBOOK":"Addressbook","NO_ADDRESSES":"You have no addresses stored!","FAIL_ADDRESSES":"Addresses not available. Try again later.","ADD_ADDRESS":"Add Address","CLOSE":"Close","COMPANY_NAME":"Company","CONFIRM_DELETE_ADDRESS_TITLE":"Delete Address","CONFIRM_ADDRESS_REMOVAL":"Are you sure you want to delete this address?","CONFIRM_ORDER_CANCEL_TITLE":"Cancel Order","CONFIRM_CANCEL_ORDER":"Are you sure you want to cancel your order?","FULL_NAME":"Full Name","CONTACT_PHONE":"Phone","FAIL_CUSTOMER_DETAILS":"Customer details not available. Try again later.","DATE":"Date","NAME_REQUIRED":"Name Required","STREET":"Street","STREET_NUMBER":"Street Number","WELCOME":"Welcome","NOT_SET":"Not Set","ORDER_HISTORY":"Order History","ORDER_NUMBER":"Order Number","ORDER_STATUS":"Order Status","ORDER_CANCEL":"Cancel Order","ORDER_CANCEL_ERROR":"Cancelation failed, please contact customer service or try again later","FAIL_ORDER":"Orders not available. Try again later.","NO_ORDERS":"You have no orders stored","ORDER_ITEM_COUNT":"{{number}} Item","ORDER_ITEMS_COUNT":"{{number}} Items","SHIPPING_DETAILS":"SHIPPING DETAILS","SAVE":"Save","SUBMIT":"Submit","UPDATE_PASSWORD":"Update password","CURRENT_PASSWORD":"Current password","NEW_PASSWORD":"New password","CONFIRM_NEW_PASSWORD":"Confirm new password","PASSWORDS_NO_MATCH":"Passwords do not match","WRONG_CURRENT_PASSWORD":"Please provide correct current password!","PASSWORD_TOO_SHORT":"Password too short","SHOW_ALL":"Show all","SHOW_LESS":"Show less","ITEMS_IN_ORDER":"Items in Order","SAVE_ADDRESS_ERROR":"An error occured and updates not saved. Save updates.","REMOVE_ADDRESS_ERROR":"Deleting address failed. Please try again.","UPDATE_DEFAULT_ADDRESS_ERROR":"Updating default address failed. Please try again.","EDIT_EMAIL_UPDATED":"Your email is being updated...","EDIT_EMAIL_SUCESSFULLY_UPDATED":"Email sucessfully updated","EDIT_EMAIL_CHANGED_MSG":"Your email has changed. You must sign in with your updated email","OOPS_MSG":"Oops!","EDIT_EMAIL_CHANGE_FAILED":"Something went wrong. Please reset your email again","RESET_EMAIL":"RESET EMAIL","EDIT_EMAIL_PASSWORD_NOT_CORRECT":"Password is not correct. Try again","EDIT_EMAIL_ALREADY_IN_USE":"This email is already in use. Try again","EDIT_EMAIL_SOMETHING_WENT_WRONG":"Something went wrong. Try again","FORGOT_PW":"Forgot your password?","PASSWORD":"Password","PASSWORD_MINCHAR":"Min. 6 characters","CONFIRM_PASSWORD":"Confirm Password","TOKEN":"Token","RESET_PASSWORD":"Reset Password","RESET_PW_TITLE":"Reset Your Password","RESET_PW_INSTRUCT":"Please create a new password.","FORGOT_PW_INSTRUCT":"Please enter your account email address below.  An email will be sent to you with a link to reset your password.","REQUEST_PW_EXPIRED":"Reset Password Request Expired","REQUEST_PW_EXPIRED_MSG":"The request to reset your password has expired. Please enter your email to make a new request.","CHECK_EMAIL":"Check Your Email","CHECK_EMAIL_INSTRUCT":"...and follow the link to reset your password. The link will be valid for 24 hours.","CHECK_EMAIL_INSTRUCT_CHANGE_EMAIL":"...and follow the link to confirm change of your email. The link will be valid for 24 hours.","COOKIES_ENABLED_ERROR":"Cookies must be enabled in your browser to sign in. To find out more, see the Help or Preferences area of your browser. Once enabled, sign in.","CREATE_ACCOUNT_ERROR":"Customer account was created successfully, but cookies must be enabled to login. To find out more, see the Help or Preferences area of your browser. Once enabled, sign in.","PASSWORD_REQUIRED":"Password with 6 character minimum required.","PASSWORDS_MUST_MATCH":"Passwords must match.","PW_SUCCESS":"Success","PW_CHANGED_MSG":"Your password has been reset. You can now sign into your account.","INVALID_TOKEN":"This reset-password link is no longer valid.  Please request a new one.","PW_CHANGE_FAILED":"Update of password failed.","RESET_PW_REPEAT":"Request another reset-password link.","FIELD_REQUIRED":"Field is required!","FIELD_TOO_SHORT":"Field too short!","FIELDS_NOT_MATCHING":"Fields not matching!","SERVER_UNAVAILABLE":"Server is unavailable, please try again later.","INVALID_CREDENTIALS":"You entered an invalid email or password.","PASSWORD_INVALID":"Password invalid - minimum of 6 characters required.","ACCOUNT_LOCKED":"Account has been locked due to excessive number of invalid login attempts. Please wait 5 minutes and try again.","ACCOUNT_ALREADY_EXISTS":"Email address already in use for existing account.","FORGOT_PASSWORD":"Forgot password?","EMAIL_NOT_FOUND":"There is no account associated with that email address.","ENTER_EMAIL":"Enter Email","ENTER_EXISTING_EMAIL":"Enter the email address of an existing account","LOGIN_FAILED":"Login failed","ACCOUNT_EMAIL":"Account Email","ERROR_TITLE":"Internal Error","ERROR_MESSAGE":"Oops! There's a problem.","ERROR_TITLE_401":"Unauthorized","ERROR_MESSAGE_401":"Oops! There's a problem. Your login credentials don't allow access to this page.","ERROR_TITLE_404":"Page not found","ERROR_MESSAGE_404":"Oops! There's a problem. This page doesn't exist.","ERROR_REDIRECT":"Here is a page to help you get back on track.","ERROR_BUTTON_TEXT":"HOMEPAGE","DR":"Dr.","MR":"Mr.","MRS":"Mrs.","MS":"Ms.","TITLE":"Title","COMPLETED":"Completed","CONFIRMED":"Confirmed","CREATED":"Created","DECLINED":"Cancelled","SHIPPED":"Shipped","CREDIT_CARD":"Credit Card","ON":"on","QUANTITY":"Quantity","SHIPPED_BY_ON":"Shipped by: <span><b>{{carrier}} on {{shippedDate}}</b></span>","TRACKING_NUMBER":"<span>Tracking Number: {{trackingNumber}}</span>","FOUND_FOR":"<strong>{{total}}</strong> found for <strong>{{searchString}}</strong>","SEARCH":"Search","SEARCH_RESULTS":"Search results","MOST_RELEVANT":"Most Relevant","RESULTS":"Results","SEE_ALL":"See All Results","SEARCH_UNAVAILABLE":"Search is currently unavailable.","NO_RESULTS_FOUND":"No results found.","IN":"in","TERMS_AND_CONDITIONS":"Terms & Conditions","CONTACT_US":"Contact Us","SITE_MAP":"Site Map"}
+{
+    //XFLD
+    "en": "English",
+    //XFLD
+    "de": "German",
+    //XFLD
+    "fr": "French",
+    //XFLD
+    "es": "Spanish",
+
+    //XFLD
+    //-------------------------------------------------
+    // Global
+    //-------------------------------------------------
+    //XBUT
+    "YES": "Yes",
+    //XBUT
+    "NO": "No",
+
+    //XFLD
+    //-------------------------------------------------
+    // Cart
+    //-------------------------------------------------
+
+    //XBUT
+    "BACK_TO_CHECKOUT": "Back to checkout",
+    //XFLD
+    "CANCEL": "Cancel",
+    //XBUT
+    "CHECKOUT": "Checkout",
+    //XBUT
+    "CONTINUE_SHOPPING": "Continue shopping",
+    //XBUT
+    "SHOP": "Shop",
+    //XFLD
+    "NOTE": "Note",
+    //XFLD
+    "ADD_NOTE": "Add Note",
+    //XFLD
+    "EDIT_NOTE": "Edit Note",
+    //XFLD
+    "DELETE_NOTE": "Delete Note",
+    //XMSG
+    "UNABLE_TO_SAVE_NOTE": "Unable to save note",
+    //XFLD
+    "EST_ORDER_TOTAL": "Est. order total",
+    //XFLD
+    "PREVIEW_ORDER": "Preview Order",
+    //XFLD
+    "PAYMENT_REVIEW": "Payment & Review",
+    //XFLD
+    "PLEASE_CORRECT_MESSAGE_ERRORS": "Something went wrong, please try again",
+    //XFLD
+    "FREE_SHIPPING": "Free Shipping and Returns in the US",
+    //XFLD
+    "ITEM": "Item",
+    //XFLD
+    "ITEM_PRICE": "Item Price",
+    //XFLD
+    "TOTAL_PRICE": "Total Price",
+    //XMSG
+    "CART_UNAVAILABLE": "The cart is currently unavailable. Please try again.",
+    //XMSG
+    "CART_EMPTY": "Your cart is empty",
+    //XMSG
+    "CART_ITEM_UPDATE_ERROR": "The update was not successful. Please try again.",
+    //XFLD
+    "ESTIMATE_TAX": "Estimate Tax",
+    //XFLD
+    "APPLY": "Apply",
+    //XFLD
+    "ESTIMATE_TAX_ERROR": "Zip/Postal Code and Country Code fields are required",
+    //XMSG
+    "ADDITIONAL_SHIPPING_OPTIONS": "Additional shipping options are available in checkout.",
+    //XMSG
+    "SELECT_A_COUNTRY": "Select a country",
+
+    //XFLD
+    //-------------------------------------------------
+    // Checkout
+    //-------------------------------------------------
+
+    //XFLD
+    "ADDRESS": "Address",
+    //XFLD
+    "ADDRESS_LINE_1": "Address Line 1",
+    //XFLD
+    "ADDRESS_LINE_2": "Address Line 2",
+    //XGRP
+    "CANT_BE_SHIPPED": "Items cannot be shipped to this location",
+    //XGRP
+    "BILLING_ADDRESS": "Billing Address",
+    //XFLD
+    "CITY": "City",
+    //XFLD
+    "PROVINCE": "Province",
+    //XBUT
+    "CONTINUE": "Continue",
+    //XBUT
+    "COST": "Cost",
+    //XFLD
+    "COUNTRY": "Country",
+    //XFLD
+    "CREDIT_CARD_NUMBER": "Credit Card Number",
+    //XFLD
+    "CVC_NUMBER": "CVC Number",
+    //XFLD
+    "DELIVERY_METHOD": "Delivery Method",
+    //XFLD
+    "EMAIL": "Email",
+    //XBUT
+    "EDIT": "Edit",
+    //XFLD
+    "FIRST_NAME": "First Name",
+    //XLST
+    "FREE_STANDARD_SHIPPING": "Free Standard Shipping",
+    //XLST
+    "FLAT_RATE_SHPPING": "Flat Rate",
+    //XMSG
+    "INVALID_EXPIRATION_DATE": "Invalid Expiration Date",
+    //XFLD
+    "ITEMS": "Items",
+    //XFLD
+    "LAST_NAME": "Last Name",
+    //XFLD
+    "LAST_NAME_REQUIRED": "Last Name Required",
+    //XFLD
+    "METHOD": "Method",
+    //XFLD
+    "MIDDLE_NAME": "Middle Name",
+    //XFLD
+    "MONTH": "Month",
+    //XFLD
+    "NAME": "Name",
+    //XMSG
+    "NO_ITEMS_IN_CART": "There are no items in your cart.",
+    //XACT
+    "OPTIONAL": "Optional",
+    //XGRP
+    "ORDER_DETAILS": "Order Details",
+    //XFLD
+    "ORDER_DATE": "Order Date",
+    //XMSG
+    "ORDER_PENDING": "One moment... Placing your order",
+    //XFLD
+    "ORDER_TOTAL": "Order Total",
+    //XFLD
+    "PAYMENT": "Payment",
+    //XMSG
+    "PHONE_REQUIRED": "Phone Required",
+    //XBUT
+    "PLACE_ORDER": "Place Order",
+    //XFLD
+    "PLACED_AT": "Placed At",
+    //XMSG
+    "PLEASE_CORRECT_ERRORS": "Please correct the errors above before placing your order.",
+    //XMSG
+    "PLEASE_CORRECT_ERRORS_PREVIEW": "Please correct the errors above before previewing your order.",
+    //XMSG
+    "PLEASE_CORRECT_ERRORS_ADDRESS": "Please correct the address details before previewing your order.",
+    //XMSG
+    "PLEASE_ENTER_VALID_CC": "Please enter a valid credit card number",
+    //XMSG
+    "PLEASE_ENTER_VALID_CODE": "Please enter a valid code",
+    //XMSG
+    "PLEASE_ENTER_VALID_EMAIL": "Please enter a valid email in the format name@example.com",
+    //XACT
+    "REQUIRED": "Required",
+    //XCKL
+    "SAME_AS_SHIPPING_ADDRESS": "Same As Shipping Address",
+    //XTIT
+    "SECURE_CHECKOUT": "Secure Checkout",
+    //XBUT
+    "SELECT_FROM_ADDRESS_BOOK": "Select from address book",
+    //XBUT
+    "ADDRESS_BOOK": "Address Book",
+    //XFLD
+    "SHIPPING": "Shipping",
+    //XGRP
+    "SHIPPING_ADDRESS": "Shipping Address",
+    //XGRP
+    "SIMPLE_3_STEP_CHECKOUT": "Simple 3 Step Checkout",
+    //XGRP
+    "SIMPLE_4_STEP_CHECKOUT": "Simple 4 Step Checkout",
+    //XFLD
+    "STATE": "State",
+    //XGRP
+    "STEP_1_MY_DETAILS": "Step 1. My Details",
+    //XGRP
+    "STEP_2_BILLING_INFORMATION": "Step 2. Billing Information",
+    //XGRP
+    "STEP_3_PAYMENT": "Step 3. Payment",
+    //XGRP
+    "STEP_4_REVIEW_ORDER": "Step 4. Review Order",
+    //XFLD
+    "SUBTOTAL": "Subtotal",
+    //XFLD
+    "DISCOUNT": "Discount",
+    //XFLD
+    "TAX": "Tax",
+    //XFLD
+    "TOTAL": "Total",
+    //XFLD
+    "YEAR": "Year",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Addresses
+    //-------------------------------------------------
+
+    //XFLD
+    "DEFAULT": "Default",
+    //XFLD
+    "DISTRICT": "District",
+    //XFLD
+    "STREET_NAME": "Street Name/ Number",
+    //XFLD
+    "BUILDING_NAME": "Building Name/ Number",
+    //XFLD
+    "ROOM_NUMBER": "Room Number",
+    //XFLD
+    "PREFECTURE": "Prefecture",
+    //XFLD
+    "POSTAL_CODE": "Postal Code",
+    //XFLD
+    "ZIP": "Zip/ Postal Code",
+    //XFLD
+    "CITY_VILLAGE": "City/ Village/ City Ward",
+    //XFLD
+    "SUBAREA": "Subarea",
+    //XFLD
+    "FURTHER_SUBAREA": "Further Subarea, Block #/ House #",
+
+    //XFLD
+    //-------------------------------------------------
+    // Coupons
+    //-------------------------------------------------
+
+    //XBUT
+    "COUPON_APPLY": "Apply",
+    //XFLD
+    "COUPON_APPLIED": "Applied",
+    //XFLD
+    "COUPON_NOT_APPLIED": "Not Applied",
+    //XLNK
+    "COUPON_CODE": "Add Coupon Code",
+                            
+    //XMSG
+    "COUPON_NOT_ACTIVE": "The coupon is not active", 
+    //XMSG
+    "COUPON_EXPIRED": "The coupon is not active", 
+    //XMSG
+    "COUPON_REDEMPTIONS_EXCEEDED": "Coupon has reached maximum number of redemptions", 
+    //XMSG
+    "COUPON_REDEMPTION_FORBIDDEN": "Current customer is not allowed to redeem the coupon", 
+    //XMSG
+    "COUPON_ORDER_TOTAL_TOO_LOW": "The order value is too low for this coupon", 
+    //XMSG
+    "COUPON_CURRENCY_INCORRECT": "Currency inconsistent with coupon", 
+    //XMSG
+    "COUPON_DISCOUNT_CURRENCY_INCORRECT": "Discount currency invalid inconsistent coupon", 
+    //XMSG
+    "COUPON_DISCOUNT_AMOUNT_INCORRECT": "Discount amount exceeds allowed coupon discount",
+     
+    //XMSG
+    "COUPON_ERROR": "Coupon not valid.",
+    //XMSG
+    "COUPON_ERR_CURRENCY": "Currency invalid with coupon",
+    //XMSG
+    "COUPON_ERR_ANONYMOUS": "Sign in to use coupon code",
+    //XMSG
+    "COUPON_ERR_UNAVAILABLE": "Coupon no longer available",
+    //XMSG
+    "COUPON_MINIMUM_NOT_MET": "Current order total does not meet the required minimum for this coupon",
+    //XMSG
+    "COUPON_NOT_VALID": "Coupon Not Valid",
+    //XTIT
+    "COUPONS": "Coupon Code",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Confirmation
+    //-------------------------------------------------
+
+    //XMSG
+    "A_COPY_OF_YOUR_ORDER_DETAILS_HAS_BEEN_SENT_TO": "<p class=\"orderEmailedTo\">A copy of your order details has been sent to <strong>{{emailAddress}}</strong></p>",
+    //XMSG
+    "ENJOY_YOUR_ITEMS": "Enjoy your items!",
+    //XMSG
+    "FOR_YOUR_ORDER": "for your order!",
+    //XMSG
+    "ITEM_IN_YOUR_ORDER": "Item in your order",
+    //XMSG
+    "ITEMS_IN_YOUR_ORDER": "Items in your order",
+    //XMSG
+    "QUESTIONS": "<p class=\"support-box\">If you have any questions, contact us at <strong>{{contactInfo}}</strong>.</p>",
+    //XFLD
+    "ORDER": "Order",
+    //XBUT
+    "RETURN_TO_SHOPPING": "Return to shopping",
+    //XMSG
+    "SUCCESS": "Success!",
+    //XMSG
+    "ACCOUNT_SUCCESS": "Your account was successfully created!",
+    //XMSG
+    "THANK_YOU": "Thank you",
+    //XMSG
+    "THANK_YOU_FOR_YOUR_ORDER": "Thank you<br />for your order!",
+    //XMSG
+    "THE_SHIPMENT_IS_SCHEDULED_TO_ARRIVE_AT_THE_FOLLOWING_LOCATION": "The order will be shipped to",
+    //XMSG
+    "YOUR_ORDER_IS": "Your order # is ",
+    //XMSG
+    "ONE_MORE_STEP": "One More Step to Create an Account for a <strong>Fast Checkout</strong> and <strong>Easy Access</strong> to Previous Orders",
+    //XFLD
+    "SKU": "SKU",
+    //XMSG
+    "YOUR_CHECKOUT_HAS_BEEN_ACCEPTED_ORDER_NOT_CREATED": "Your checkout has been accepted, but the order has not been created. For tracking purposes, please use the following checkout ID number: ",
+    //XMSG
+    "YOUR_ORDER_WILL_BE_CREATED": "Your order will be created as soon as possible.",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Navigation
+    //-------------------------------------------------
+
+    //XFLD
+    "PRODUCTS": "Products",
+    //XBUT
+    "BACK_TO": "Back To",
+    //XFLD
+    "REGION": "Region",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Product Detail Page
+    //-------------------------------------------------
+
+
+    //XFLD
+    "SHIPPING_INFORMATION": "Shipping information",
+    //XFLD
+    "SHIPPING_ZONE": "Shipping Zone",
+    //XFLD
+    "STANDARD_SHIPPING": "Standard Shipping",
+    //XFLD
+    "SHIPPING_RATE": "Shipping Rate",
+    //XFLD
+    "ZONE": "Zone",
+
+    //XBUT
+    "BUY": "Buy",
+    //XBUT
+    "ADD_TO_CART": "Add to Cart",
+    //XMSG
+    "PRODUCTS_ADDED_TO_CART": "product(s) successfully added to your cart",
+    //XTIT
+    "PRODUCT_DESCRIPTION": "Product Description",
+    //XTIT
+    "PRODUCT_DETAILS": "Product Details",
+    //XBUT
+    "OUT_OF_STOCK": "out of stock",
+    //XBUT
+    "UNAVAILABLE": "Unavailable",
+    //XFLD
+    "QTY": "Qty",
+    //XMSG
+    "INCLUDES": "Includes",
+    //XMSG
+    "DESTINATION_COUNTRY": "Destination country(s)",
+    //XMSG
+    "NO_LIMIT": "No Limit",
+    //XMSG
+    "ERROR_ADDING_TO_CART": "Add to Cart was not successful.  Please try again.",
+    
+    //XTBS
+    "DESCRIPTION_TAB": "Description",
+    //XTBS
+    "DETAILS_TAB": "Details",
+
+    //XBUT
+    "MORE": "More",
+
+    //XFLD
+    //-------------------------------------------------
+    // Product List Page
+    //-------------------------------------------------
+
+    //XLST
+    "NEWEST": "newest",
+    //XFLD
+    "OF": "of",
+    //XLST
+    "PRICE_HIGH_LOW": "price high - low",
+    //XLST
+    "PRICE_LOW_HIGH": "price low - high",
+    //XFLD
+    "SORT_BY": "Sort by",
+    //XFLD
+    "VIEWING": "Viewing",
+    //XFLD
+    "PRODUCTS_FROM_TO": "<div>{{productsFrom}}-{{productsTo}} of {{total}}</div>",
+    //XFLD
+    "ALL_PRODUCTS": "All Products",
+    //XTIT
+    "EMPTY_MSG": "Demo Store - Coming Soon",
+    //XFLD
+    "LANGUAGES": "Languages",
+    //XFLD
+    "SELECT_LANGUAGE": "Select a language",
+    //XBUT
+    "SIGN_OUT": "Sign Out",
+    //XBUT
+    "SIGN_IN": "Sign In",
+    //XBUT
+    "SIGN_IN_WITH_FACEBOOK": "Sign in with Facebook",
+    //XBUT
+    "LOG_IN_WITH_GOOGLE": "Sign in with Google",
+    //XBUT
+    "MY_ACCOUNT": "My Account",
+    //XBUT
+    "CREATE_ACCOUNT": "Create Account",
+    //XBUT
+    "CONTINUE_AS_GUEST": "Continue as our guest",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Account Page
+    //-------------------------------------------------
+
+    //XTIT
+    "UPDATE_ACCOUNT_DETAILS": "Update Account details",
+    //XTIT
+    "UPDATE_EMAIL": "Update Email",
+    //XBUT
+    "ADD": "Add",
+    //XFLD
+    "REGION_PREFERENCES": "Region Preferences",
+    //XFLD
+    "NEW_EMAIL": "New Email",
+    //XFLD
+    "CURRENT_EMAIL": "Current Email",
+    //XGRP
+    "ADDRESSBOOK": "Addressbook",
+    //XMSG
+    "NO_ADDRESSES": "You have no addresses stored!",
+    //XMSG
+    "FAIL_ADDRESSES": "Addresses not available. Try again later.",
+    //XBUT
+    "ADD_ADDRESS": "Add Address",
+    //XBUT
+    "CLOSE": "Close",
+    //XFLD
+    "COMPANY_NAME": "Company",
+    //XTIT
+    "CONFIRM_DELETE_ADDRESS_TITLE": "Delete Address",
+    //XMSG
+    "CONFIRM_ADDRESS_REMOVAL": "Are you sure you want to delete this address?",
+    //XTIT
+    "CONFIRM_ORDER_CANCEL_TITLE": "Cancel Order",
+    //XMSG
+    "CONFIRM_CANCEL_ORDER": "Are you sure you want to cancel your order?",
+    //XFLD
+    "FULL_NAME": "Full Name",
+    //XFLD
+    "CONTACT_PHONE": "Phone",
+    //XFLD
+    "FAIL_CUSTOMER_DETAILS": "Customer details not available. Try again later.",
+    //XFLD
+    "DATE": "Date",
+    //XMSG
+    "NAME_REQUIRED": "Name Required",
+    //XFLD
+    "STREET": "Street",
+    //XFLD
+    "STREET_NUMBER": "Street Number",
+    //XTIT
+    "WELCOME": "Welcome",
+    //XFLD
+    "NOT_SET": "Not Set",
+    //XGRP
+    "ORDER_HISTORY": "Order History",
+    //XFLD
+    "ORDER_NUMBER": "Order Number",
+    //XFLD
+    "ORDER_STATUS": "Order Status",
+    //XFLD
+    "ORDER_CANCEL": "Cancel Order",
+    //XFLD
+    "ORDER_CANCEL_ERROR": "Cancelation failed, please contact customer service or try again later",
+    //XFLD
+    "FAIL_ORDER": "Orders not available. Try again later.",
+    //XFLD
+    "NO_ORDERS": "You have no orders stored",
+    //XSEL
+    "ORDER_ITEM_COUNT": "{{number}} Item",
+    //XSEL
+    "ORDER_ITEMS_COUNT": "{{number}} Items",
+
+    //XFLD
+    "SHIPPING_DETAILS": "SHIPPING DETAILS",
+    //XBUT
+    "SAVE": "Save",
+    //XBUT
+    "SUBMIT": "Submit",
+    //XBUT
+    "UPDATE_PASSWORD": "Update password",
+    //XBUT
+    "CURRENT_PASSWORD": "Current password",
+    //XBUT
+    "NEW_PASSWORD": "New password",
+    //XMSG
+    "CONFIRM_NEW_PASSWORD": "Confirm new password",
+    //XMSG
+    "PASSWORDS_NO_MATCH": "Passwords do not match",
+    //XMSG
+    "WRONG_CURRENT_PASSWORD": "Please provide correct current password!",
+    //XMSG
+    "PASSWORD_TOO_SHORT": "Password too short",
+    //XFLD
+    "SHOW_ALL": "Show all",
+    //XFLD
+    "SHOW_LESS": "Show less",
+    //XFLD
+    "ITEMS_IN_ORDER": "Items in Order",
+    //XMSG
+    "SAVE_ADDRESS_ERROR": "An error occured and updates not saved. Save updates.",
+    //XMSG
+    "REMOVE_ADDRESS_ERROR": "Deleting address failed. Please try again.",
+    //XMSG
+    "UPDATE_DEFAULT_ADDRESS_ERROR": "Updating default address failed. Please try again.",
+
+
+    //XTIT
+    "EDIT_EMAIL_UPDATED": "Your email is being updated...",
+    //XTIT
+    "EDIT_EMAIL_SUCESSFULLY_UPDATED": "Email sucessfully updated",
+    //XMSG
+    "EDIT_EMAIL_CHANGED_MSG": "Your email has changed. You must sign in with your updated email",
+   
+    //XMSG
+    "OOPS_MSG": "Oops!",
+    //XMSG
+    "EDIT_EMAIL_CHANGE_FAILED": "Something went wrong. Please reset your email again",
+
+    //XBUT
+    "RESET_EMAIL": "RESET EMAIL",
+
+    //XMSG
+    "EDIT_EMAIL_PASSWORD_NOT_CORRECT": "Password is not correct. Try again",
+    //XMSG
+    "EDIT_EMAIL_ALREADY_IN_USE": "This email is already in use. Try again",
+    //XMSG
+    "EDIT_EMAIL_SOMETHING_WENT_WRONG": "Something went wrong. Try again",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Login, password, signup
+    //-------------------------------------------------
+
+    //XBUT
+    "FORGOT_PW": "Forgot your password?",
+    //XFLD
+    "PASSWORD": "Password",
+    //XACT
+    "PASSWORD_MINCHAR": "Min. 6 characters",
+    //XBUT
+    "CONFIRM_PASSWORD": "Confirm Password",
+    //XFLD
+    "TOKEN": "Token",
+    //XBUT
+    "RESET_PASSWORD": "Reset Password",
+    //XGRP
+    "RESET_PW_TITLE": "Reset Your Password",
+    //XMSG
+    "RESET_PW_INSTRUCT": "Please create a new password.",
+    //XMSG
+    "FORGOT_PW_INSTRUCT": "Please enter your account email address below.  An email will be sent to you with a link to reset your password.",
+    //XMSG
+    "REQUEST_PW_EXPIRED": "Reset Password Request Expired",
+    //XMSG
+    "REQUEST_PW_EXPIRED_MSG": "The request to reset your password has expired. Please enter your email to make a new request.",
+    //XMSG
+    "CHECK_EMAIL": "Check Your Email",
+    //XMSG
+    "CHECK_EMAIL_INSTRUCT": "...and follow the link to reset your password. The link will be valid for 24 hours.",
+    //XMSG
+    "CHECK_EMAIL_INSTRUCT_CHANGE_EMAIL": "...and follow the link to confirm change of your email. The link will be valid for 24 hours.",
+    //XMSG
+    "COOKIES_ENABLED_ERROR": "Cookies must be enabled in your browser to sign in. To find out more, see the Help or Preferences area of your browser. Once enabled, sign in.",
+    //XMSG
+    "CREATE_ACCOUNT_ERROR": "Customer account was created successfully, but cookies must be enabled to login. To find out more, see the Help or Preferences area of your browser. Once enabled, sign in.",
+    //XMSG
+    "PASSWORD_REQUIRED": "Password with 6 character minimum required.",
+    //XMSG
+    "PASSWORDS_MUST_MATCH": "Passwords must match.",
+    //XMSG
+    "PW_SUCCESS": "Success",
+    //XMSG
+    "PW_CHANGED_MSG": "Your password has been reset. You can now sign into your account.",
+    //XMSG
+    "INVALID_TOKEN": "This reset-password link is no longer valid.  Please request a new one.",
+    //XMSG
+    "PW_CHANGE_FAILED": "Update of password failed.",
+    //XMSG
+    "RESET_PW_REPEAT": "Request another reset-password link.",
+    //XACT
+    "FIELD_REQUIRED": "Field is required!",
+    //XACT
+    "FIELD_TOO_SHORT": "Field too short!",
+    //XACT
+    "FIELDS_NOT_MATCHING": "Fields not matching!",
+
+    //XMSG
+    "SERVER_UNAVAILABLE": "Server is unavailable, please try again later.",
+    //XMSG
+    "INVALID_CREDENTIALS": "You entered an invalid email or password.",
+    //XMSG
+    "PASSWORD_INVALID": "Password invalid - minimum of 6 characters required.",
+    //XMSG
+    "ACCOUNT_LOCKED": "Account has been locked due to excessive number of invalid login attempts. Please wait 5 minutes and try again.",
+    //XMSG
+    "ACCOUNT_ALREADY_EXISTS": "Email address already in use for existing account.",
+    //XFLD
+    "FORGOT_PASSWORD": "Forgot password?",
+    //XMSG
+    "EMAIL_NOT_FOUND": "There is no account associated with that email address.",
+    //XACT
+    "ENTER_EMAIL": "Enter Email",
+    //XMSG
+    "ENTER_EXISTING_EMAIL": "Enter the email address of an existing account",
+    //XMSG
+    "LOGIN_FAILED": "Login failed",
+
+    //XFLD
+    "ACCOUNT_EMAIL": "Account Email",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Dynamic Error Displays
+    //-------------------------------------------------
+
+    //XMSG
+    "ERROR_TITLE": "Internal Error",
+    //XMSG
+    "ERROR_MESSAGE": "Oops! There's a problem.",
+    //XMSG
+    "ERROR_TITLE_401": "Unauthorized",
+    //XMSG
+    "ERROR_MESSAGE_401": "Oops! There's a problem. Your login credentials don't allow access to this page.",
+    //XMSG
+    "ERROR_TITLE_404": "Page not found",
+    //XMSG
+    "ERROR_MESSAGE_404": "Oops! There's a problem. This page doesn't exist.",
+    //XMSG
+    "ERROR_REDIRECT": "Here is a page to help you get back on track.",
+    //XBUT
+    "ERROR_BUTTON_TEXT": "HOMEPAGE",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Titles
+    //-------------------------------------------------
+
+    //XACT
+    "DR": "Dr.",
+    //XACT
+    "MR": "Mr.",
+    //XACT
+    "MRS": "Mrs.",
+    //XACT
+    "MS": "Ms.",
+    //XACT
+    "TITLE": "Title",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Order Statuses
+    //-------------------------------------------------
+
+    //XSEL
+    "COMPLETED": "Completed",
+    //XSEL
+    "CONFIRMED": "Confirmed",
+    //XSEL
+    "CREATED": "Created",
+    //XSEL
+    "DECLINED": "Cancelled",
+    //XSEL
+    "SHIPPED": "Shipped",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Order Details
+    //-------------------------------------------------
+
+    //XFLD
+    "CREDIT_CARD": "Credit Card",
+    //XFLD
+    "ON": "on",
+    //XFLD
+    "QUANTITY": "Quantity",
+    //XFLD
+    "SHIPPED_BY_ON": "Shipped by: <span><b>{{carrier}} on {{shippedDate}}</b></span>",
+    //XFLD
+    "TRACKING_NUMBER": "<span>Tracking Number: {{trackingNumber}}</span>",
+
+
+    //XFLD
+    //-------------------------------------------------
+    // Search
+    //-------------------------------------------------
+
+    //XFLD
+    "FOUND_FOR": "<strong>{{total}}</strong> found for <strong>{{searchString}}</strong>",
+    //XACT
+    "SEARCH": "Search",
+    //XFLD
+    "SEARCH_RESULTS": "Search results",
+    //XFLD
+    "MOST_RELEVANT": "Most Relevant",
+    //XGRP
+    "RESULTS": "Results",
+    //XLNK
+    "SEE_ALL": "See All Results",
+    //XMSG
+    "SEARCH_UNAVAILABLE": "Search is currently unavailable.",
+    //XMSG
+    "NO_RESULTS_FOUND": "No results found.",
+    //XFLD
+    "IN": "in",
+
+    //XFLD
+    //-------------------------------------------------
+    // FOOTER
+    //-------------------------------------------------
+
+    //XFLD
+    "TERMS_AND_CONDITIONS": "Terms & Conditions",
+    //XFLD
+    "CONTACT_US": "Contact Us",
+    //XFLD
+    "SITE_MAP": "Site Map"
+
+}
